@@ -1,1 +1,2 @@
-# -lab_value_error_try_exeption
+# lab_value_error_try_exeption
+Catching exceptions
